@@ -12,9 +12,9 @@
 <p align="justify">Utilizando uma linguagem de script à sua escolha, construa um projeto (servido através do nginx) que possa relatar estatísticas operacionais básicas sob a forma de um objeto JSON.</p>
 
 - As estatísticas devem incluir (como mínimo):
-  - Carga actual da CPU, tempo de espera e utilização de memória (opcionalmente reportado como slab, cache, RSS, etc.)
-  - Se existem actualizações pendentes (opcionalmente, reportando actualizações de segurança independentemente)
-  - Utilização actual do disco e desempenho de leitura/escrita
+ - Carga actual da CPU, tempo de espera e utilização de memória (opcionalmente reportado como slab, cache, RSS, etc.)
+ - Se existem actualizações pendentes (opcionalmente, reportando actualizações de segurança independentemente)
+ - Utilização actual do disco e desempenho de leitura/escrita
 
 <p align="justify">O resultado final pode incluir quaisquer outras estatísticas que considere importantes para efeitos de monitorização do servidor. Você pode considerar a possibilidade de construir o script em cima do projeto dstat.</p>
 
