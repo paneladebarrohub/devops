@@ -1,5 +1,3 @@
-<p align="justify">Será necessário documentar o seu processo e apresentá-lo (utilizando um PowerPoint ou apresentação semelhante), bem como demonstrar o resultado das tarefas no servidor durante a apresentação.Os resultados destas tarefas são menos importantes do que o seu processo de pensamento e decisões à medida que as completa, por isso tente documentar e apresentar os seus hipóteses e decisões na medida do possível.</p>
-
 ## PARTE 1 - CONFIGURANDO SERVIDOR
 
 **A sua tarefa consiste em configurar um servidor baseado na nuvem e instalar e configurar alguns componentes básicos.**
